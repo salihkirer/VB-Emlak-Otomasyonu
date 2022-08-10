@@ -3,5 +3,5 @@
 
 Giriş Bilgileri
 
-kullanıcı adı: admin
+kullanıcı adı: admin/n
 şifre: 1234
