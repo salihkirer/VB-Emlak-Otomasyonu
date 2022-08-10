@@ -1,0 +1,115 @@
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe.config
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.MDIParent1.resources
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.Resources.resources
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.GenerateResource.Cache
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.xml
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.pdb
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.xml
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.exe
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.pdb
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.konutKayit.resources
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbprojResolveAssemblyReference.cache
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.acilis.resources
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.arsaKayit.resources
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.gmSat.resources
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.login.resources
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.musteriKayit.resources
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.musteriler.resources
+C:\Users\Salih KIrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.isyeriKayit.resources
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe.config
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.exe
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.xml
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.pdb
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.pdb
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.xml
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbprojResolveAssemblyReference.cache
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.acilis.resources
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.arsaKayit.resources
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.gmSat.resources
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.isyeriKayit.resources
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.konutKayit.resources
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.login.resources
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.MDIParent1.resources
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.musteriKayit.resources
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.musteriler.resources
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.Resources.resources
+C:\(((Desktop)))\EMLAK\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.GenerateResource.Cache
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe.config
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.exe
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.xml
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.pdb
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.pdb
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.xml
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbprojResolveAssemblyReference.cache
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.acilis.resources
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.arsaKayit.resources
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.gmSat.resources
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.isyeriKayit.resources
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.konutKayit.resources
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.login.resources
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.MDIParent1.resources
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.musteriKayit.resources
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.musteriler.resources
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.Resources.resources
+C:\Users\Salih KIrer\Google Drive\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.GenerateResource.Cache
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe.config
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.exe
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.xml
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.pdb
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.pdb
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.xml
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbprojResolveAssemblyReference.cache
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.acilis.resources
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.arsaKayit.resources
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.gmSat.resources
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.isyeriKayit.resources
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.konutKayit.resources
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.login.resources
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.MDIParent1.resources
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.musteriKayit.resources
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.musteriler.resources
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.Resources.resources
+C:\Users\salihkrer\Desktop\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.GenerateResource.Cache
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe.config
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.exe
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.xml
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.pdb
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.pdb
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.xml
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbprojResolveAssemblyReference.cache
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.acilis.resources
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.arsaKayit.resources
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.gmSat.resources
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.isyeriKayit.resources
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.konutKayit.resources
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.login.resources
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.MDIParent1.resources
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.musteriKayit.resources
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.musteriler.resources
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.Resources.resources
+S:\belgeler\2016-2018\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.GenerateResource.Cache
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe.config
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.exe
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.pdb
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\bin\Debug\EmlakOtomasyonu.xml
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.AssemblyReference.cache
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.acilis.resources
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.arsaKayit.resources
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.gmSat.resources
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.isyeriKayit.resources
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.konutKayit.resources
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.login.resources
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.MDIParent1.resources
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.musteriKayit.resources
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.musteriler.resources
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.Resources.resources
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.GenerateResource.cache
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.vbproj.CoreCompileInputs.cache
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.exe
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.xml
+E:\belgeler\2016-2018 akdeniz\Projeler\EmlakOtomasyonu\EmlakOtomasyonu\obj\Debug\EmlakOtomasyonu.pdb
